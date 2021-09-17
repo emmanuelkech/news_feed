@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="newsletter1">Tech Tips To Protect Your Devices From Cyber-Attacks</string>
+    <string name="newsletter2">How To Use Instagram For Attracting More Customers For Your Web Designing Business</string>
+    <string name="newsletter3">5 Pointers To Assist You In Becoming A Successful Software Developer</string>
+    <string name="newsletter4">Press Release: Releaf Secures $4.2m In Seed Funding And Grants To Drive Industrialisation Of Food Processing In Africa</string>
+    <string name="newsletter5">YouTube Mobile App Rolls Out New Translate Feature for Comments</string>
+    <string name="newsletter6">Software Patch: Apple Advise Users To Update Mobile Devices.</string>
+    <string name="newsletter7">Microsoft Accounts Can Now Go Fully Passwordless.</string>
+    <string name="newsletter8">The 8 Biggest Announcements From Apple’s Event</string>
+    <string name="newsletter9">All You Need To Learn About The Hotel Technology</string>
+    <string name="newsletter10">Robots In The Workplace: How Technology Is Improving Medicine</string>
+    <string name="newsletter11">The New iPad Mini With 5G, USB-C, And Larger 8.3-Inch Display</string>
+    <string name="newsletter12">The Latest Apple Watch Series 7 Charges At 33% Faster</string>
+</resources>
